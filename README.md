@@ -7,6 +7,7 @@
 
 - Enable mouse mode. (開啟之後好像就能取代 scroll buffer ?)
 - Adjust window and pane by mouse. (使用滑鼠調整 pane 大小)
+- Keep windows rename (如果不關閉 bash title 自動變更後就會被蓋掉)
 
 ## tmux reload config
 
