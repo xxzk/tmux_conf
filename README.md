@@ -8,6 +8,7 @@
 - Adjust window and pane by mouse. (使用滑鼠調整 pane 大小)
 - Keep windows rename (如果不關閉 bash title 自動變更後就會被蓋掉)
 - 安裝 tmux-resurrect 儲存當前 tmux session (save: `Prefix + ctrl + s`, restore: `Prefix + ctrl + r`)
+- 按下 `Ctrl+Shift+Left` or `Ctrl+Shift+Right` 就能 Swap-windows [ref](https://superuser.com/questions/343572/how-do-i-reorder-tmux-windows)
 
 ## tmux reload config
 
